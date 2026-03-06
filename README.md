@@ -26,7 +26,7 @@ This project was developed as part of:
 
 You can access the deployed application here:
 
-`PASTE_YOUR_STREAMLIT_LINK_HERE`
+https://loan-eligibility-ml-app-nmfpuyjtkmmbav4ifgkv4h.streamlit.app/
 
 ---
 
